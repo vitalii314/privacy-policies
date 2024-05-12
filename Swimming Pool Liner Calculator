@@ -1,0 +1,13 @@
+Privacy Policy of Swimming Pool Calculator app 
+
+The application has not been programmed to collect any personally identifiable information. Any data created inside the application (like application preferences)  
+is stored locally in your device only, and can be simply erased by clearing the app's data or uninstalling it. No analytics software is present in the app either.
+
+
+The app uses the following permissions: 
+
+1) <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+This permission is used to allow the application to store the application preferences (settings and last input data) on your device 
+
+2) <uses-permission android:name="com.android.vending.CHECK_LICENSE"/>
+This permission is used to check the license of the app - whether it was legally downloaded from Google Play store
